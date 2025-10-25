@@ -1,0 +1,18 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+venv/
+# Build
+build/
+*.egg-info/
+# IDE
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+# Project
+screenshot.png
+audio.wav
+output.json
+*.exe
+!dist/
